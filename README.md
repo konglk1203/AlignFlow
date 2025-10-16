@@ -24,7 +24,7 @@ AlignFlow
 ├── checkerboard                # Synthetic test demonstrating the difference of SDOT coupling, random coupling and minibatch coupling. (Sec. D in the paper)
 ├── CIFAR                     # Train U-net (34M parameters) on CIFAR10. The flow matching is performed in the pixel space. (Sec. 5.1 in the paper)
 ├── imagenet_sdot_utils         # Helper functions for sdot dataset on Imagenet
-├── shortcut-sdot               # Train DiT on Imagenet (256*256 resolution) by AlignFlow combining with vanilla flow matching, consistency training, live reflow and shortcut models. (Sec. 5.2 in the paper)
+├── ShortcutModel               # Train DiT on Imagenet (256*256 resolution) by AlignFlow combining with vanilla flow matching, consistency training, live reflow and shortcut models. (Sec. 5.2 in the paper)
 └── MeanFlow                    # Train SiT on Imagenet (256*256 resolution) by AlignFlow combining with meanflow. (Sec. 5.3 in the paper)
 ```
 
