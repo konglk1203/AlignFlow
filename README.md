@@ -37,8 +37,6 @@ Then add this folder containing this `README.md` file to path
 ```bash
 export PYTHONPATH="${PYTHONPATH}:PATH_COTAINING_THIS_README_FILE" # For Linux
 $env:PYTHONPATH = "$env:PYTHONPATH;PATH_COTAINING_THIS_README_FILE" # For Windows
-
-$env:PYTHONPATH = "$env:PYTHONPATH;D:\GaTech Dropbox\Kong Lingkai\sdot_fm\AlignFlow_dev-main" # For Windows
 ```
 - Please follow the README.md file in each folder to generate the result provided in the paper.
 
