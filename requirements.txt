@@ -1,0 +1,31 @@
+jax[cuda12]
+absl-py
+clean-fid
+tqdm
+flax
+wandb
+ml-collections
+diffusers
+einops
+jaxtyping
+typeguard
+matplotlib
+numpy
+scipy
+scikit-learn
+scanpy
+# tensorflow
+# tensorflow_datasets
+# torch
+# torchvision
+torchdyn   # 1.0.4 is broken on pypi
+torchdiffeq
+pot
+pandas
+timm
+lmdb
+Pillow
+-e git+https://github.com/LTH14/torch-fidelity.git@master#egg=torch-fidelity
+accelerate
+pydlpack
+hf_transfer
