@@ -1,4 +1,4 @@
-## AlignFlow + Chortcut Model
+## AlignFlow + Shortcut Model
 In this code, we show AlignFlow can improves the performance for [shortcut models](https://arxiv.org/abs/2410.12557), which is one of the SOTA Flow-based Generative Model algorithms.
 
 This folder is modified from [official implementation for shortcut models](https://github.com/kvfrans/shortcut-models).
